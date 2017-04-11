@@ -1,6 +1,6 @@
 # Kubernetes Performance SLO monitor
 
-This tool monitors Performance SLOs that are unavailable from the API server and exposes Prometheus metrics for them.
+This tool monitors Performance Service Level Objectives(SLOs) that are unavailable from the API server and exposes Prometheus metrics for them.
 
 It can be run anywhere and only requirement is that it needs to be able to talk to the API server.
 
